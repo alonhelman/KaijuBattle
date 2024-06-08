@@ -149,6 +149,11 @@
 		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
+		},
+		{
+			"Name": "GeometryCacheCollision",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2b9939bfd18b48459ead8da1d56948da"
 		}
 	]
 }
